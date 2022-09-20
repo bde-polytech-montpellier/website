@@ -1,0 +1,6 @@
+[submodule "front"]
+	path = front
+	url = git@github.com:bde-polytech-montpellier/bde-website-front.git
+[submodule "api"]
+	path = api
+	url = git@github.com:bde-polytech-montpellier/bde-website-api.git
